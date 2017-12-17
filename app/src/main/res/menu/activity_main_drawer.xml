@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ico_home"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_collezione1"
+            android:icon="@drawable/ico_dress1"
+            android:title="Collezione AI 2017" />
+        <item
+            android:id="@+id/nav_collezione2"
+            android:icon="@drawable/ico_dress1"
+            android:title="Collezione PE 2017" />
+        <item
+            android:id="@+id/nav_pelletteria"
+            android:icon="@drawable/ico_pelletteria"
+            android:title="Pelletteria" />
+        <item
+            android:id="@+id/nav_calzature"
+            android:icon="@drawable/ico_calzature"
+            android:title="Calzature" />
+        <item
+            android:id="@+id/nav_gioielli"
+            android:icon="@drawable/ico_gioielli"
+            android:title="Gioielli" />
+    </group>
+
+
+
+</menu>
